@@ -105,8 +105,28 @@
 ### Drink
 - 음료 정보를 담고 있는 클래스
 
-## 결론
-자판기 관리 프로그램은 사용자와 관리자 모두에게 편리한 인터페이스를 제공하며 음료 판매 및 관리 기능을 효과적으로 수행할 수 있습니다. 프로그램 개발을 통해 JAVA 프로그래밍 능력을 향상시키고 실제 응용 프로그램 개발 경험을 쌓을 수 있었습니다.
+## 결과
+
+### VendingMachineGUI
+![VendingMachineGUI](https://github.com/zzfbwoals/JAVA-Vending-Machine-Project/blob/main/imgVM/1.png)
+
+### PasswordGUI
+![PasswordGUI](https://github.com/zzfbwoals/JAVA-Vending-Machine-Project/blob/main/imgVM/7.png)
+
+### ManagerGUI
+![ManagerGUI](https://github.com/zzfbwoals/JAVA-Vending-Machine-Project/blob/main/imgVM/9.png)
+
+### PasswordChagneGUI
+![PasswordChangeGUI](https://github.com/zzfbwoals/JAVA-Vending-Machine-Project/blob/main/imgVM/10.png)
+
+### PurchaseGUI
+![PurchaseGUI](https://github.com/zzfbwoals/JAVA-Vending-Machine-Project/blob/main/imgVM/12.png)
+
+### DrinkManageGUI
+![DrinkManageGUI](https://github.com/zzfbwoals/JAVA-Vending-Machine-Project/blob/main/imgVM/16.png)
+
+### MoneyManageGUI
+![MoneyManageGUI](https://github.com/zzfbwoals/JAVA-Vending-Machine-Project/blob/main/imgVM/20.png)
 
 ## 제출일
 - 2024.06.14
