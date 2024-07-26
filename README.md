@@ -40,14 +40,8 @@
 - `Money`: 화폐 정보 클래스
 - `Drink`: 음료 정보 클래스
 
-## 개발 일정
-
-### 전체 개발 기간: 1달
-- 초기 설계 및 요구사항 분석: 1주
-- GUI 디자인 및 구현: 1주
-- 기본 기능 개발: 1주
-- 테스트 및 디버깅: 3일
-- 최종 검토 및 문서 작성: 4일
+## 개발 기간
+- 2024.05.18. ~ 2024.06.13.
 
 ## 기능 설명
 
@@ -127,6 +121,3 @@
 
 ### MoneyManageGUI
 ![MoneyManageGUI](https://github.com/zzfbwoals/JAVA-Vending-Machine-Project/blob/main/imgVM/20.png)
-
-## 제출일
-- 2024.06.14
